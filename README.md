@@ -8,7 +8,7 @@ The purpose of this project was to discover how fares, drivers and the average f
   ![Summary](Resources/Summary.png)
 
 The results are what I would expect across the three city types. Urban areas have a high concentration of drivers and rides leading to more fares. With the amount of rides and drivers the routes are probably shorter which means a lower fare per driver and ride. The opposite holds true for rural. We have a lower concentration of drivers and rides and I would guess longer routes leads to higher fares. 
-  ![Linechart](Resources/linechart.png) 
+  ![Linechart](Resources/Linechart.png) 
 
 Looking at the line chart shows something interesting. The total fares per month in the suburban areas fluctuates more so than the urban and rural areas. The very beginning of the year, almost the entire month of March and a little bit of April has dips below $1,000 total in fares. There are only two short term spikes close to $1,500 just before the start of March and at the end of April. The fares in the rural cities are consistently above $2,000 with two exceptions. The urban cities also show a consistency around $200 to $400 with the very beginning of April being the pea.
 ## Summary
